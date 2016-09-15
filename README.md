@@ -2,7 +2,8 @@
 
 ## Where is it?
 
-[Project Link](http://p1.kaleemabdullah.com).
+[Project Demo Link](http://p1.kaleemabdullah.com).
+[Project Github link](https://github.com/mkabdullah/p1).
 
 ## Description
 
