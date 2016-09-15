@@ -22,7 +22,7 @@
         <img src='images/kaleem.jpg' width=300 height=500 alt='Muhammad Abdullah'>
 
         <h3>Project 1 -- Portfolio</h3>
-        <p><a href="http://demo-placeholder">View Demo</a></p>
+        <p><a href="https://www.youtube.com/watch?v=IBIFS2pegzk">View Demo</a></p>
         <p><a href="https://github.com/mkabdullah/p1">Github</a></p>
 
         <h3>Project 2 Title</h3>

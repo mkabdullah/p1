@@ -6,9 +6,9 @@ This is my first project for the course CSCI E-15 Dymanic Web Applications. The 
 
 ## Where is it?
 
-Project demo is available at [Demo](http://p1.kaleemabdullah.com).
-Project code is available at [Github](https://github.com/mkabdullah/p1).
+Live Project is available at [Demo](http://p1.kaleemabdullah.com).
+Project code is available at [Github](https://github.com/mkabdullah/p1)
 
 ## Project Demo
 
-The project demo video is hosted [here](http://video-url-placeholder)
+The project demo video is hosted [here](https://www.youtube.com/watch?v=IBIFS2pegzk)
