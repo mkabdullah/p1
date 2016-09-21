@@ -27,7 +27,7 @@
 
         <h3>Project 2 Title</h3>
         <p>View: [link]</p>
-        <p>Github: [link]</p>
+        <p><a href="https://github.com/mkabdullah/p2">Github</a></p>
 
         <h3>Project 3 Title</h3>
         <p>View: [link]</p>
