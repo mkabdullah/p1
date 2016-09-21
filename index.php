@@ -25,7 +25,7 @@
         <p><a href="https://www.youtube.com/watch?v=IBIFS2pegzk">View Demo</a></p>
         <p><a href="https://github.com/mkabdullah/p1">Github</a></p>
 
-        <h3>Project 2 Title</h3>
+        <h3>Project 2 -- XKCD Password Generator</h3>
         <p>View: [link]</p>
         <p><a href="https://github.com/mkabdullah/p2">Github</a></p>
 
