@@ -29,9 +29,9 @@
         <p><a href="https://www.youtube.com/watch?v=ew35gokDavI">View Demo</a></p>
         <p><a href="https://github.com/mkabdullah/p2">Github</a></p>
 
-        <h3>Project 3 Title</h3>
+        <h3>Project 3 -- Developer's Best Friend</h3>
         <p>View: [link]</p>
-        <p>Github: [link]</p>
+        <p><a href="https://github.com/mkabdullah/p3">Github</a></p>
 
         <h3>Project 4 Title</h3>
         <p>View: [link]</p>
